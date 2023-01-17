@@ -1,0 +1,67 @@
+body
+{
+    background-color: #ffccaa;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+}
+
+a
+{
+    color: #a04000;
+}
+
+#vorosmarty
+{
+    float: left;
+    width: 150pt;
+    margin:5pt 20pt 5pt 20pt;
+}
+
+h1
+{
+    color: #a04000;
+}
+
+#elsobekezdes
+{
+    text-align: justify;
+    font-weight: bold;
+}
+
+#figarokep
+{
+    width: 195pt;
+    float: right;
+    margin:5pt 20pt 5pt 20pt;
+}
+
+span
+{
+    font-weight: bold;
+}
+
+table
+{
+    width: 100%;
+}
+
+#bal
+{
+    text-align: left;
+}
+
+#jobb
+{
+    text-align: right;
+    
+}
+
+#kozep
+{
+    text-align: center;
+}
+
+#cselekmeny
+{
+    text-align: justify;
+}
